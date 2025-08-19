@@ -15,12 +15,6 @@ function adicionarAmigo() {
         alert('Por favor, insira um nome.');
         return; // Encerra a função se o campo estiver vazio.
     }
-
-    // Valida se o nome já existe na lista.
-    if (amigos.includes(nomeAmigo)) {
-        alert('Este nome já foi adicionado. Por favor, insira um nome diferente.');
-        return;
-    }
     
     // 3. Adiciona o nome ao nosso array 'amigos'.
     amigos.push(nomeAmigo);

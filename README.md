@@ -9,7 +9,7 @@ Este é um projeto simples de um sorteador de "Amigo Secreto", desenvolvido como
 - **Reiniciar:** Limpa a lista de amigos e o resultado do sorteio, permitindo que um novo evento seja criado do zero.
 - **Validações:**
   - Impede a adição de nomes em branco.
-  - Impede a adição de nomes duplicados.
+
   - Exige um número mínimo de 4 participantes para realizar o sorteio.
 
 ## 🚀 Como Usar
@@ -36,4 +36,7 @@ Pronto! Agora é só adicionar os nomes e se divertir.
 
 !Screenshot da aplicação Amigo Secreto em funcionamento
 
-*(Substitua `caminho/para/sua/imagem.png` por um screenshot real da sua aplicação)*
+challenge-amigo-secreto_pt/assets/2025-08-19_17-02.png
+
+
+## 🚀🚀🚀🚀🚀🚀🚀🚀
