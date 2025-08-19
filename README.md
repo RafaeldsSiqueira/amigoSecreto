@@ -34,9 +34,7 @@ Pronto! Agora é só adicionar os nomes e se divertir.
 
 ## 📸 Screenshot
 
-!Screenshot da aplicação Amigo Secreto em funcionamento
-
-challenge-amigo-secreto_pt/assets/2025-08-19_17-02.png
+![Screenshot da aplicação Amigo Secreto em funcionamento](assets/2025-08-19_17-02.png)
 
 
 ## 🚀🚀🚀🚀🚀🚀🚀🚀
